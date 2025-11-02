@@ -1,0 +1,14 @@
+d:\netlgia\MakarovaE_GUN40_GUNPC\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+d:\netlgia\MakarovaE_GUN40_GUNPC\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+d:\netlgia\MakarovaE_GUN40_GUNPC\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+d:\netlgia\MakarovaE_GUN40_GUNPC\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+d:\netlgia\MakarovaE_GUN40_GUNPC\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+d:\netlgia\MakarovaE_GUN40_GUNPC\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+d:\netlgia\MakarovaE_GUN40_GUNPC\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+d:\netlgia\MakarovaE_GUN40_GUNPC\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+d:\netlgia\MakarovaE_GUN40_GUNPC\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+d:\netlgia\MakarovaE_GUN40_GUNPC\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+d:\netlgia\MakarovaE_GUN40_GUNPC\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+d:\netlgia\MakarovaE_GUN40_GUNPC\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+d:\netlgia\MakarovaE_GUN40_GUNPC\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+d:\netlgia\MakarovaE_GUN40_GUNPC\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
