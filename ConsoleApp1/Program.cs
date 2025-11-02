@@ -44,6 +44,9 @@
                 var result_or = a ^ b;
                 Console.WriteLine($"The result of {a} ^ {b}:\n -In decimal: {result_or} \n -In binary: {Convert.ToString(result_or, 2)} \n -In hexadecimal: {Convert.ToString(result_or, 16)}");
                 break;
+            default:
+                Console.WriteLine("Wrong sign(");
+                break ;
             
         }
     
