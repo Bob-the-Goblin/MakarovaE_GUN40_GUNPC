@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\ConsoleApp4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE462145-74C3-4969-A21F-92F25A55C1F3}|ConsoleApp4\\ConsoleApp4.csproj|d:\\netlgia\\makarovae_gun40_gunpc\\consoleapp4\\consoleapp4\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE462145-74C3-4969-A21F-92F25A55C1F3}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE462145-74C3-4969-A21F-92F25A55C1F3}|ConsoleApp4\\ConsoleApp4.csproj|d:\\netlgia\\makarovae_gun40_gunpc\\consoleapp4\\consoleapp4\\interval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE462145-74C3-4969-A21F-92F25A55C1F3}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\interval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE462145-74C3-4969-A21F-92F25A55C1F3}|ConsoleApp4\\ConsoleApp4.csproj|d:\\netlgia\\makarovae_gun40_gunpc\\consoleapp4\\consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE462145-74C3-4969-A21F-92F25A55C1F3}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE462145-74C3-4969-A21F-92F25A55C1F3}|ConsoleApp4\\ConsoleApp4.csproj|d:\\netlgia\\makarovae_gun40_gunpc\\consoleapp4\\consoleapp4\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE462145-74C3-4969-A21F-92F25A55C1F3}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE462145-74C3-4969-A21F-92F25A55C1F3}|ConsoleApp4\\ConsoleApp4.csproj|d:\\netlgia\\makarovae_gun40_gunpc\\consoleapp4\\consoleapp4\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE462145-74C3-4969-A21F-92F25A55C1F3}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE462145-74C3-4969-A21F-92F25A55C1F3}|ConsoleApp4\\ConsoleApp4.csproj|d:\\netlgia\\makarovae_gun40_gunpc\\consoleapp4\\consoleapp4\\interval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE462145-74C3-4969-A21F-92F25A55C1F3}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\interval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE462145-74C3-4969-A21F-92F25A55C1F3}|ConsoleApp4\\ConsoleApp4.csproj|d:\\netlgia\\makarovae_gun40_gunpc\\consoleapp4\\consoleapp4\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE462145-74C3-4969-A21F-92F25A55C1F3}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE462145-74C3-4969-A21F-92F25A55C1F3}|ConsoleApp4\\ConsoleApp4.csproj|d:\\netlgia\\makarovae_gun40_gunpc\\consoleapp4\\consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE462145-74C3-4969-A21F-92F25A55C1F3}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE462145-74C3-4969-A21F-92F25A55C1F3}|ConsoleApp4\\ConsoleApp4.csproj|d:\\netlgia\\makarovae_gun40_gunpc\\consoleapp4\\consoleapp4\\dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE462145-74C3-4969-A21F-92F25A55C1F3}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE462145-74C3-4969-A21F-92F25A55C1F3}|ConsoleApp4\\ConsoleApp4.csproj|d:\\netlgia\\makarovae_gun40_gunpc\\consoleapp4\\consoleapp4\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE462145-74C3-4969-A21F-92F25A55C1F3}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,21 +37,25 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Interval.cs",
               "DocumentMoniker": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\ConsoleApp4\\ConsoleApp4\\Interval.cs",
               "RelativeDocumentMoniker": "ConsoleApp4\\Interval.cs",
               "ToolTip": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\ConsoleApp4\\ConsoleApp4\\Interval.cs",
               "RelativeToolTip": "ConsoleApp4\\Interval.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAIwCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-15T12:43:54.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Weapon.cs",
               "DocumentMoniker": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\ConsoleApp4\\ConsoleApp4\\Weapon.cs",
               "RelativeDocumentMoniker": "ConsoleApp4\\Weapon.cs",
@@ -63,12 +67,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Dungeon.cs",
               "DocumentMoniker": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\ConsoleApp4\\ConsoleApp4\\Dungeon.cs",
               "RelativeDocumentMoniker": "ConsoleApp4\\Dungeon.cs",
@@ -81,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Room.cs",
               "DocumentMoniker": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\ConsoleApp4\\ConsoleApp4\\Room.cs",
               "RelativeDocumentMoniker": "ConsoleApp4\\Room.cs",
@@ -100,14 +100,14 @@
               "RelativeDocumentMoniker": "ConsoleApp4\\Unit.cs",
               "ToolTip": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\ConsoleApp4\\ConsoleApp4\\Unit.cs",
               "RelativeToolTip": "ConsoleApp4\\Unit.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-15T12:41:24.622Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\netlgia\\MakarovaE_GUN40_GUNPC\\ConsoleApp4\\ConsoleApp4\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp4\\Program.cs",

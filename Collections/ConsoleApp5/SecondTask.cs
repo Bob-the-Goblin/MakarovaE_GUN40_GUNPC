@@ -24,7 +24,7 @@ namespace ConsoleApp5
                 Console.WriteLine("wrong Input");
             }
             else
-            { classmate.Add(toName, toMark); }
+            { classmate.TryAdd(toName, toMark); }
         }
 
         public void CheckMark()

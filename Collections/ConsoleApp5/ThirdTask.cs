@@ -8,36 +8,31 @@ namespace ConsoleApp5
 {
     internal class ThirdTask
     {
-        LinkedList<string> flower = new LinkedList<string>();
+        LinkedList<string> flowers = new LinkedList<string>();
 
 
         public void Create()
         {
             Console.WriteLine("Enter 3 flowers: ");
          
-            flower.AddFirst(Console.ReadLine());
-            flower.AddLast(Console.ReadLine());
-            flower.AddLast(Console.ReadLine());
+            flowers.AddFirst(Console.ReadLine());
+            flowers.AddLast(Console.ReadLine());
+            flowers.AddLast(Console.ReadLine());
             Console.WriteLine();
         }
 
         public void ToConsleStraight()
         {
             Console.WriteLine("List of flower straight:");
-            foreach (var item in flower)
-            {  Console.WriteLine(item); }
+            foreach (var flower in flowers)
+            {  Console.WriteLine(flower); }
             Console.WriteLine();
         }
 
         public void ToConsoleReverse()
         {
-            Console.WriteLine("List of flower reverse");
-            var reversFlower = flower.Last;
-            while (reversFlower != null)
-            {
-                Console.WriteLine(reversFlower.Value);
-                reversFlower = reversFlower.Previous;
-            }
+            foreach (var flower in flowers.Reverse())
+                { Console.WriteLine(flower); }
         }
 
         public void CallTask()

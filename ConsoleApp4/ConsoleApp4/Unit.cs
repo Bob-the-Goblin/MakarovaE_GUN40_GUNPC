@@ -35,12 +35,8 @@ public class Unit
         return Health * (1f + Armor);
     }
     public bool SetDamage( float value)
-    {health -= values.Max * Armor;
+    {health -= value * Armor;
 
-        if (Health <= 0f)
-        {
-            return true;
-        }
-        else return false;
+        return Health <= 0f;
     }
 }

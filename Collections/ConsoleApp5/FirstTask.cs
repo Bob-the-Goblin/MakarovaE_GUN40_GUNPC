@@ -27,23 +27,15 @@ namespace ConsoleApp5
 
         public void Replace()
         {
-            int middle = animals.Count / 2;
-            int lenght = animals.Count - 1;
-
-            string toReplace = animals[lenght];
-
-            for (int i = lenght; i >= middle; i--)
-            {
-                animals[i] = animals[i - 1];
-            }
-            animals[middle] = toReplace;
+            Console.Write("Enter animal: ");
+            string newAnim = (Console.ReadLine());
+            animals.Insert(animals.Count/2, newAnim);
         }
 
         public void CallTask()
         {
             this.Add();
             this.ToConsole();
-            this.Add();
             this.Replace();
             this.ToConsole();
         }

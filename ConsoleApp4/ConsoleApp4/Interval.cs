@@ -5,16 +5,16 @@ using System;
 
         public int Min { get; }
         public int Max { get; }
-        public int Get { get; }
+        public int Get ()
+        {
+        Random rand = new Random();
+        return rand.Next(Min, Max + 1); }
 
 
         public Interval(int min, int max)
         {
         Min = min;
         Max = max;
-
-        Random rand = new Random();
-        Get = rand.Next(Min, Max);
 
             if (min > max)
             {
@@ -26,6 +26,9 @@ using System;
             if (max < 0) { max = 0; Console.WriteLine("Incorrect Input"); }
             if (max == min) { max += 10; Console.WriteLine("Incorrect Input"); }
         }
+
+
+
     }
 
 
